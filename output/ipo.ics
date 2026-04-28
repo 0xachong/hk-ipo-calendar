@@ -37,7 +37,6 @@ UID:ipo-01187-listing-open@hk-ipo-cal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260508
 DESCRIPTION:🚀 正式上市日 (港股交易时段 09:30-12:00 / 13:00-16:00)\n\n招股价: 待定 HKD\n每手: 100 股\n入场费: 3972.67 HKD\n行业: 醫療保健設備\n招股期: 2026-04-27 ~ 2026-04-30\n定价: 2026-05-04\n暗盘: 2026-05-05\n上市: 2026-05-06
 SUMMARY:🚀 可孚醫療 (01187) 上市日
 UID:ipo-01187-listing-day@hk-ipo-cal
@@ -78,14 +77,13 @@ UID:ipo-01187-subscription-close@hk-ipo-cal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260507
 DESCRIPTION:🚀 正式上市日 (港股交易时段 09:30-12:00 / 13:00-16:00)\n\n招股价: 98.5 HKD\n每手: 50 股\n入场费: 4974.67 HKD\n行业: 醫療保健設備\n招股期: 2026-04-24 ~ 2026-04-29\n定价: 2026-04-24\n暗盘: 2026-05-04\n上市: 2026-05-05
 SUMMARY:🚀 天星醫療 (01609) 上市日
 UID:ipo-01609-listing-day@hk-ipo-cal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260501
 DESCRIPTION:📌 可孚醫療 招股期 (2026-04-27 ~ 2026-04-30)\n\n招股价: 待定 HKD\n每手: 100 股\n入场费: 3972.67 HKD\n行业: 醫療保健設備\n招股期: 2026-04-27 ~ 2026-04-30\n定价: 2026-05-04\n暗盘: 2026-05-05\n上市: 2026-05-06
 SUMMARY:📌 可孚醫療 (01187) 招股期
 UID:ipo-01187-subscription@hk-ipo-cal
@@ -126,7 +124,7 @@ UID:ipo-01187-dark-pool@hk-ipo-cal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260430
 DESCRIPTION:📌 天星醫療 招股期 (2026-04-24 ~ 2026-04-29)\n\n招股价: 98.5 HKD\n每手: 50 股\n入场费: 4974.67 HKD\n行业: 醫療保健設備\n招股期: 2026-04-24 ~ 2026-04-29\n定价: 2026-04-24\n暗盘: 2026-05-04\n上市: 2026-05-05
 SUMMARY:📌 天星醫療 (01609) 招股期
 UID:ipo-01609-subscription@hk-ipo-cal
@@ -150,7 +148,7 @@ UID:ipo-01609-subscription-close@hk-ipo-cal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260425
 DESCRIPTION:📌 商米科技－Ｗ 招股期 (2026-04-21 ~ 2026-04-24)\n\n招股价: 24.860 HKD\n每手: 100 股\n入场费: 2511.07 HKD\n行业: 資訊科技諮詢與其它服務\n招股期: 2026-04-21 ~ 2026-04-24\n定价: 2026-04-21\n暗盘: -\n上市: -
 SUMMARY:📌 商米科技－Ｗ (06810) 招股期
 UID:ipo-06810-subscription@hk-ipo-cal
